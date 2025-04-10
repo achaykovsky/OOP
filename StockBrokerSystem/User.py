@@ -1,4 +1,4 @@
-from StockBrokerSystem.OperationType import OperationType
+from OperationType import OperationType
 
 
 class User:
