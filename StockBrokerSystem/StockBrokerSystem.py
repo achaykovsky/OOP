@@ -1,12 +1,12 @@
 from datetime import datetime
 import time
 
-from StockBrokerSystem.Admin import Admin
-from StockBrokerSystem.Logging import Logging
-from StockBrokerSystem.Operation import Operation
-from StockBrokerSystem.OperationType import OperationType
-from StockBrokerSystem.Stock import Stock
-from StockBrokerSystem.User import User
+from Admin import Admin
+from Logging import Logging
+from Operation import Operation
+from OperationType import OperationType
+from Stock import Stock
+from User import User
 
 
 class StockBrokerSystem:
